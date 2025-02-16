@@ -1,2 +1,2 @@
 # symmetrical-broccoli
-this is mu first git Repository.
+this is my first git Repository.
